@@ -1,0 +1,52 @@
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.csprojAssemblyReference.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.Form1.resources
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.GenerateResource.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.Child.resources
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications\Q1\obj\Debug\netcoreapp3.1\Q1.Properties.Resources.resources
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.AssemblyReference.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.Child.resources
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.Form1.resources
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.Properties.Resources.resources
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.GenerateResource.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+F:\NSBM\3rd Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.AssemblyReference.cache
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.Child.resources
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.Form1.resources
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.Properties.Resources.resources
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.GenerateResource.cache
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.GeneratedMSBuildEditorConfig.editorconfig
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+F:\NSBM\1st_Year\3rd_Semester\C# Programming\LAB\(2021.04.01) Windows Form Applications (07)\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache
